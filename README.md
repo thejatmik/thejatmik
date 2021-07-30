@@ -5,6 +5,8 @@
 - ⚡ Fun fact (not about me): the whole "Bad Apple!! played on xx" meme has many layers of coding-algorithm knowledge
 
 Here's my take. Web video player and cesium.
+
+
 https://user-images.githubusercontent.com/13992930/127671141-a9813bd9-71f7-4a13-9994-f14b170b7803.mp4
 
 <!--
